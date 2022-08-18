@@ -9,7 +9,7 @@
 
 ## Languages
 | ![Swift Logo](https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png =50x50) |![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png =50x)| ![PHP Logo](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png =50x)|![Java Logo](https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png =50x)|![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png =45x)|
-|--|--|--|--|--|
+|:-:|:-:|:-:|:-:|:-:|
 
 
 ## Hit Me Up
